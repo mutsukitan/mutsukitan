@@ -16,18 +16,18 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 
 
 ## 😲 The tools I use are:
-<a href="https://archlinux.org/" target="__blank" style="display: inline-block;">
+<a href="https://archlinux.org/" target="_blank" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50px" height="50px" />
 </a>
-<a href="https://code.visualstudio.com/" target="__blank" style="display: inline-block;">
+<a href="https://code.visualstudio.com/" target="_blank" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
 </a>
-<a href="https://cloudflare.com/" target="__blank" style="display: inline-block;">
+<a href="https://cloudflare.com/" target="_blank" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="50px" height="50px" />
 </a>
-<a href="https://www.mongodb.com/" target="__blank" style="display: inline-block;">
+<a href="https://www.mongodb.com/" target="_blank" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px" />
 </a>
-<a href="https://stackoverflow.com/" target="__blank" style="display: inline-block;">
+<a href="https://stackoverflow.com/" target="_blank" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" width="50px" height="50px" />
 </a>
