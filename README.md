@@ -4,16 +4,17 @@ I am a developer and security researcher as a hobby.<br>
 I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 
 ### 😎 GitHub Stats
-<img src="https://github-readme-stats-mutsukitan.vercel.app/api?username=mutsukitan&show_icons=true&count_private=true&theme=dark" alt="GitHub Readme Stats" />
-<img src="https://github-readme-stats-mutsukitan.vercel.app/api/top-langs/?username=mutsukitan&layout=compact&count_private=true&theme=dark" alt="Top Languages Card (Compact layout)">
+<img src="https://github-readme-stats-mutsukitan.vercel.app/api?username=mutsukitan&show_icons=true&count_private=true&theme=dark" alt="GitHub Readme Stats" /><img src="https://github-readme-stats-mutsukitan.vercel.app/api/top-langs/?username=mutsukitan&layout=compact&count_private=true&theme=dark" alt="Top Languages Card (Compact layout)" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=mutsukitan&color=red" alt="GitHub Profile Views">
 
 
 ## 🚀 The languages I can use are:
-<img src="https://cdn.simpleicons.org/python" width="50px" height="50px" />
-<img src="https://cdn.simpleicons.org/typescript" width="50px" height="50px" />
-<img src="https://cdn.simpleicons.org/javascript" width="50px" height="50px" />
+<div style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/python" width="50px" height="50px" />
+  <img src="https://cdn.simpleicons.org/typescript" width="50px" height="50px" />
+  <img src="https://cdn.simpleicons.org/javascript" width="50px" height="50px" />
+</div>
 
 - [x] TS/JS little bit
 - [x] Japanese
