@@ -67,7 +67,7 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 </details>
 <details>
 <summary>💕 VRChat</summary>
-<font size="5">❤ If you can speak Japanese, <a href="https://vrchat.com/home/user/usr_681aff0a-fb12-4f9a-a58a-02fc23f083e4">please join me</a>! ❤</font>
+❤ If you can speak Japanese, <a href="https://vrchat.com/home/user/usr_681aff0a-fb12-4f9a-a58a-02fc23f083e4">please join me</a>! ❤<br>
 <img src="./static/ss1.png" alt="Screenshot1" /><br>
 <img src="./static/ss2.png" alt="Screenshot2" /><br>
 <img src="./static/ss3.png" alt="Screenshot3" /><br>
