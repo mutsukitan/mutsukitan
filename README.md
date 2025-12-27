@@ -4,39 +4,48 @@ I am a developer and security researcher as a hobby.<br>
 I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 
 ### 😎 GitHub Stats
-![github-readme-stats](https://github-readme-stats-mutsukitan.vercel.app/api?username=mutsukitan&show_icons=true&count_private=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats-mutsukitan.vercel.app/api/top-langs/?username=mutsukitan&layout=compact&count_private=true&theme=dark)
+<img src="https://github-readme-stats-mutsukitan.vercel.app/api?username=mutsukitan&show_icons=true&count_private=true&theme=dark" alt="GitHub Readme Stats" />
+<img src="https://github-readme-stats-mutsukitan.vercel.app/api/top-langs/?username=mutsukitan&layout=compact&count_private=true&theme=dark" alt="Top Languages Card (Compact layout)">
 <br>
-![Profile views counter](https://komarev.com/ghpvc/?username=mutsukitan&color=red)
-<br>
+<img src="https://komarev.com/ghpvc/?username=mutsukitan&color=red" alt="GitHub Profile Views">
 
 
 ## 🚀 The languages I can use are:
-- [x] Python3
-- [x] Javascript little bit
+<img src="https://cdn.simpleicons.org/python" width="50px" height="50px" />
+<img src="https://cdn.simpleicons.org/typescript" width="50px" height="50px" />
+<img src="https://cdn.simpleicons.org/javascript" width="50px" height="50px" />
+
+- [x] TS/JS little bit
 - [x] Japanese
 - [ ] English, en_US
 
 
 ## 😲 The tools I use are:
 <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.simpleicons.org/archlinux" width="50px" height="50px" />
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
+<a href="https://projects.linuxmint.com/cinnamon/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/cinnamon" width="50px" height="50px" />
 </a>
 <a href="https://cloudflare.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.simpleicons.org/cloudflare" width="50px" height="50px" />
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px" />
 </a>
 <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" width="50px" height="50px" />
+  <img src="https://cdn.simpleicons.org/stackoverflow" width="50px" height="50px" />
 </a>
 
 
 ## 😋 How to Contact me:
+<a href="https://x.com/mutsukitan" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/x" width="50px" height="50px" />
+</a>
+<a href="https://t.me/mutsukitan" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/telegram" width="50px" height="50px" />
+</a>
+<a href="https://discord.gg/xQ9MneAfgk" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/discord" width="50px" height="50px" />
+</a>
 
 ## 👍 Here are some other hobbies:
 <details>
@@ -44,21 +53,25 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 
 ### Anilist
 <a href="https://anilist.co/user/7379832" target="_blank" ref="noopener noreferrer">
-  <img src="https://img.anili.st/user/7379832" width="40%" height="40%" alt="my anilist image"/>
+  <img src="https://img.anili.st/user/7379832" width="480px" alt="my anilist image"/>
 </a>
-<br>
 
-### MAL
-<a href="">soon..</a>
+### Favorite anime genre
+- Yuri
+- Fantasy
+- Adventure
+- Action
+- Slice of Life
 
 </details>
 <details>
 <summary>💕 VRChat</summary>
-![Screenshot1]()<br>
-![Screenshot2]()<br>
-![Screenshot3]()<br>  
-<br>
-[If you can speak Japanese, please join me!](https://vrchat.com/home/user/usr_681aff0a-fb12-4f9a-a58a-02fc23f083e4)
+<font size="5">❤ If you can speak Japanese, <a href="https://vrchat.com/home/user/usr_681aff0a-fb12-4f9a-a58a-02fc23f083e4">please join me</a>! ❤</font>
+<img src="./static/ss1.png" alt="Screenshot1" /><br>
+<img src="./static/ss2.png" alt="Screenshot2" /><br>
+<img src="./static/ss3.png" alt="Screenshot3" /><br>
+<img src="./static/ss4.png" alt="Screenshot4" /><br>
+
 
 
 </details>
@@ -70,6 +83,38 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 - Princess Connect! Re:Dive
 - 3DS - ACNL, YW, YW2, YW3 etc..
 - And more! 
+
+</details>
+<details>
+<summary>🤓 Gadgets</summary>
+
+### Host "main-desktop"
+- CPU: Intel Core i7-9700
+- MEM: DDR4 3200MHz 32GB
+- GPU: GeForce RTX 3060Ti 8GB
+- SSD1: SATA SSD 480GB(Windows10 Enterprise LTSC 2021)
+- SSD2: SATA SSD 480GB(For Genshin game data only)
+- HDD1: SATA 6Gb 2TB(data drive)
+- HDD2: SATA 6Gb 500GB(Symbolic links to some ProgramFiles)
+
+### Host "sub-desktop"
+- CPU: Intel Core i7-6700k
+- MEM: DDR4 2133MHz 16GB
+- GPU: GeForce GTX 960 2GB
+- SSD1: SATA SSD 480GB(Windows10 Enterprise LTSC 2021)
+- HDD1: SATA 6Gb 1TB(data drive)
+
+### Host "media-notebook"
+- CPU: Intel i5-4310M (4) @ 3.400GHz
+- MEM: DDR3L 8GB
+- GPU: Intel 4th Gen Core Processor
+- SSD1: SATA SSD 240GB
+- Memo: It's a NAT router for Wi-Fi to Wired, and I play media like Spotify and YouTube.
+
+### Smartphones
+- Google Pixel 6a
+- OnePlus 11 5G
+- etc..
 
 </details>
 <details>
