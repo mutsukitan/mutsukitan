@@ -73,8 +73,6 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 <img src="./static/ss3.png" alt="Screenshot3" /><br>
 <img src="./static/ss4.png" alt="Screenshot4" /><br>
 
-
-
 </details>
 <details>
 <summary>✨ Games</summary>  
@@ -123,7 +121,7 @@ I also use Python, Javascript, Golang, etc. to build the things I like.<br>
 
 ### Now Playing on Spotify<br>
 <a href="https://open.spotify.com/user/31n4mptp4yxdkjs672yu42khl2jm" target="_blank" rel="noopener noreferrer">
-  <img src="https://novatorem-oyoa3n9c7-mutsukitans-projects.vercel.app/api/spotify" alt="Spotify" />
+  <img src="https://novatorem-mutsukitan.vercel.app/api/spotify" alt="Spotify" />
 </a>
 
 </details>
